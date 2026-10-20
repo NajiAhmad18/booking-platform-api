@@ -138,10 +138,3 @@ Same-status updates are safely ignored (idempotent).
 - Introduce refresh tokens for extended session management.
 - Integrate Redis for caching frequently accessed data (like the active service catalog).
 
-## 21. Development Seed Credentials
-If the seed script was executed, you can authenticate using:
-- **Email**: `admin@en2h.com`
-- **Password**: `password123`
-
-## 22. Author
-Developed as part of the EN2H Software Engineer Intern assessment.
