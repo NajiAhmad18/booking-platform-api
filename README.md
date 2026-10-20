@@ -1,6 +1,6 @@
 # Booking Platform API
 
-A production-ready RESTful API for managing services and customer bookings, developed for the EN2H Software Engineer Intern technical assessment.
+A production-ready RESTful API for managing services and customer bookings.
 
 ## 1. Project Overview
 The EN2H Booking Platform API provides a robust backend solution for service-based businesses. It allows administrators to manage their service catalog and enables customers to create and track bookings. Built with strict adherence to enterprise design patterns, the API ensures data integrity, comprehensive validation, and a seamless developer experience.
